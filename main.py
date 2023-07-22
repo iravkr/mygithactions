@@ -1,7 +1,9 @@
 def hello():
     print("hi")
 
+
 def bye():
-  print("hi")
+    print("hi")
+
 
 print(hello())
